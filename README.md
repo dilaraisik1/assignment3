@@ -110,7 +110,7 @@ Moving the filter into the reducer state makes the application easier to organiz
 
 ## Bonus 4: Git repository
 
-Repository link: ADD_YOUR_GITHUB_REPOSITORY_LINK_HERE
+Repository link: https://github.com/dilaraisik1/assignment3.git
 
 The project is version-controlled with Git. Its history contains separate commits documenting the implementation steps.
 
