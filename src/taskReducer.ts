@@ -1,7 +1,7 @@
-
-// Name: AD SOYAD
-// Student ID: OGRENCI NUMARASI
+// Name: Dilara Işık
+// Student ID: 2023502033
 // MIS 233 - Assignment 3
+
 
 import type { Filter } from './filter'
 
